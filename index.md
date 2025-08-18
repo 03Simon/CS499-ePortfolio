@@ -40,12 +40,19 @@ This self-assessment summarizes my journey in the Computer Science program, my p
 ---
 
 ### **Algorithms & Data Structures**  
-- Artifact Narrative: [Download Cartpole_Artifact_Narrative.docx](Narratives/Cartpole_Artifact_Narrative.docx)  
+- Artifact Narrative: [Download Cartpole_Artifact_Narrative.docx](Narratives/Cartpole_Artifact_Narrative.docx)
+- Original Artifact: [Download Cartpole_Project_Resubmission.zip](Cartpole_Project_Resubmission.zip)
+- Enhanced Artifact: [Download Cartpole_Enhancement_Submission_M4.zip](Cartpole_Enhancement_Submission_M4.zip)
+- Narrative: [Download Cartpole_Artifact_Narrative.docx](Cartpole_Artifact_Narrative.docx)
+
 
 ---
 
 ### **Databases**  
 - Artifact Narrative: [Download Database_Artifact_Narrative.docx](Narratives/Database_Artifact_Narrative.docx)  
+- Original Artifact: [Download DatabaseProject.zip](DatabaseProject.zip)
+- Enhanced Artifact: [Download DatabaseEnhanced.zip](DatabaseEnhanced.zip)
+- Narrative: [Download Database_Artifact_Narrative.docx](Database_Artifact_Narrative.docx)
 
 ---
 
