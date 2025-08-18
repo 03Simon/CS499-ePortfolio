@@ -51,6 +51,17 @@ This self-assessment summarizes my journey in the Computer Science program, my p
 
 ## 🎥 Code Review Video  
 
+## 🎥 Code Review Video  
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/X38KWEaJkBs" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
+</iframe>
+
+
+
 👉 [Watch My Code Review Video] https://youtu.be/X38KWEaJkBs
 
 The code review explains:  
